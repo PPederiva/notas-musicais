@@ -1,0 +1,16 @@
+site_name: Notas Musicais
+repo_url: https://github.com/PPederiva/notas-musicais
+repo_name: PPederiva/notas-musicais
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
